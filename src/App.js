@@ -43,15 +43,15 @@ function TodoForm ({ addTodo }) {
 function App () {
   const [todos, setTodos] = useState ([
     {
-      text: 'Learn about React',
+      text: 'Hacer alto proyecto',
       isCompleted: false
     },
     {
-      text: 'Meet friend for lunch',
+      text: 'Esta wea esta re izi',
       isCompleted: false
     },
     {
-      text: 'Build very cool toDo app',
+      text: 'Hooks es para pichis',
       isCompleted: false
     }
   ])
